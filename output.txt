@@ -1,0 +1,4674 @@
+Options: 1 FCFS, 2 SJF, 3 MLFQ, 4 Exit
+
+Current Time: 0
+Now Running: P1	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P2	10
+		P3	18
+		P4	17
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 17
+Now Running: P2	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	24
+
+
+
+Current Time: 27
+Now Running: P3	Burst Time: 18
+-------------
+Ready Queue:  Process    Burst
+		P4	17
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	14
+		P2	31
+
+
+
+Current Time: 45
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+		P1	18
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	13
+		P3	51
+
+
+
+Current Time: 62
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+		P1	18
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	34
+		P4	42
+
+
+
+Current Time: 67
+Now Running: P6	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+		P7	6
+		P8	9
+		P9	6
+		P1	18
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	29
+		P4	37
+		P5	61
+
+
+
+Current Time: 77
+Now Running: P7	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P8	9
+		P9	6
+		P1	18
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	19
+		P4	27
+		P5	51
+		P6	35
+
+
+
+Current Time: 83
+Now Running: P8	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+		P9	6
+		P1	18
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	13
+		P4	21
+		P5	45
+		P6	29
+		P7	18
+
+
+
+Current Time: 92
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	4
+		P4	12
+		P5	36
+		P6	20
+		P7	9
+		P8	52
+
+
+
+Current Time: 98
+Now Running: P1	Burst Time: 18
+-------------
+Ready Queue:  Process    Burst
+		P2	9
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	6
+		P5	30
+		P6	14
+		P7	3
+		P8	46
+		P9	35
+
+
+
+Current Time: 116
+Now Running: P2	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+		P7	7
+		P4	19
+		P6	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	12
+		P8	28
+		P9	17
+		P1	73
+
+
+
+Current Time: 125
+Now Running: P3	Burst Time: 23
+-------------
+Ready Queue:  Process    Burst
+		P7	7
+		P4	19
+		P6	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	64
+		P5	3
+		P8	19
+		P9	8
+		P2	35
+
+
+
+Current Time: 148
+Now Running: P7	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P4	19
+		P6	12
+		P5	6
+		P9	4
+		P8	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	41
+		P2	12
+		P3	53
+
+
+
+Current Time: 155
+Now Running: P4	Burst Time: 19
+-------------
+Ready Queue:  Process    Burst
+		P6	12
+		P5	6
+		P9	4
+		P8	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	34
+		P2	5
+		P3	46
+		P7	21
+
+
+
+Current Time: 174
+Now Running: P6	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P5	6
+		P9	4
+		P8	12
+		P2	8
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	15
+		P3	27
+		P7	2
+		P4	55
+
+
+
+Current Time: 186
+Now Running: P5	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P9	4
+		P8	12
+		P2	8
+		P7	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	3
+		P3	15
+		P4	43
+		P6	41
+
+
+
+Current Time: 192
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P8	12
+		P2	8
+		P7	5
+		P1	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	9
+		P4	37
+		P6	35
+		P5	82
+
+
+
+Current Time: 196
+Now Running: P8	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P2	8
+		P7	5
+		P1	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	5
+		P4	33
+		P5	78
+		P6	31
+		P9	41
+
+
+
+Current Time: 208
+Now Running: P2	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+		P7	5
+		P1	17
+		P3	24
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	21
+		P5	66
+		P6	19
+		P9	29
+		P8	42
+
+
+
+Current Time: 216
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P3	24
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	13
+		P5	58
+		P6	11
+		P8	34
+		P9	21
+		P2	42
+
+
+
+Current Time: 221
+Now Running: P1	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P3	24
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	37
+		P4	8
+		P5	53
+		P6	6
+		P8	29
+		P9	16
+		P7	19
+
+
+
+Current Time: 238
+Now Running: P3	Burst Time: 24
+-------------
+Ready Queue:  Process    Burst
+		P6	14
+		P4	20
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	20
+		P5	36
+		P7	2
+		P8	12
+		P1	31
+
+
+
+Current Time: 262
+Now Running: P6	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P4	20
+		P9	6
+		P7	4
+		P8	14
+		P2	7
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	7
+		P5	12
+		P3	61
+
+
+
+Current Time: 276
+Now Running: P4	Burst Time: 20
+-------------
+Ready Queue:  Process    Burst
+		P9	6
+		P7	4
+		P8	14
+		P2	7
+		P1	16
+		P5	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	47
+		P6	33
+
+
+
+Current Time: 296
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P7	4
+		P8	14
+		P2	7
+		P1	16
+		P5	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	27
+		P6	13
+		P4	54
+
+
+
+Current Time: 302
+Now Running: P7	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P8	14
+		P2	7
+		P1	16
+		P5	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	21
+		P4	48
+		P6	7
+		P9	33
+
+
+
+Current Time: 306
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P2	7
+		P1	16
+		P5	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	17
+		P4	44
+		P6	3
+		P9	29
+		P7	16
+
+
+
+Current Time: 320
+Now Running: P2	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P1	16
+		P5	5
+		P6	11
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	3
+		P4	30
+		P7	2
+		P9	15
+		P8	31
+
+
+
+Current Time: 327
+Now Running: P1	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+		P5	5
+		P6	11
+		P7	5
+		P3	22
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	23
+		P8	24
+		P9	8
+		P2	43
+
+
+
+Current Time: 343
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P6	11
+		P7	5
+		P3	22
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	27
+		P4	7
+		P8	8
+		P1	27
+
+
+
+Current Time: 348
+Now Running: P6	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+		P7	5
+		P3	22
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	22
+		P2	22
+		P4	2
+		P8	3
+		P5	71
+
+
+
+Current Time: 359
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P3	22
+		P9	6
+		P4	17
+		P8	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	11
+		P2	11
+		P5	60
+		P6	32
+
+
+
+Current Time: 364
+Now Running: P3	Burst Time: 22
+-------------
+Ready Queue:  Process    Burst
+		P9	6
+		P4	17
+		P8	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	6
+		P2	6
+		P5	55
+		P6	27
+		P7	29
+
+
+
+Current Time: 386
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P4	17
+		P8	14
+		P1	14
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	33
+		P6	5
+		P7	7
+		P3	31
+
+
+
+Current Time: 392
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P8	14
+		P1	14
+		P2	9
+		P6	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	25
+		P5	27
+		P7	1
+		P9	32
+
+
+
+Current Time: 409
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P1	14
+		P2	9
+		P6	15
+		P7	7
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	8
+		P5	10
+		P9	15
+		P4	52
+
+
+
+Current Time: 423
+Now Running: P1	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P2	9
+		P6	15
+		P7	7
+		P3	21
+		P5	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	38
+		P9	1
+		P8	21
+
+
+
+Current Time: 437
+Now Running: P2	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+		P6	15
+		P7	7
+		P3	21
+		P5	3
+		P9	7
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	24
+		P8	7
+		P1	33
+
+
+
+Current Time: 446
+Now Running: P6	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P7	7
+		P3	21
+		P5	3
+		P9	7
+		P8	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	24
+		P4	15
+		P2	47
+
+
+
+Current Time: 461
+Now Running: P7	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P3	21
+		P5	3
+		P9	7
+		P8	16
+		P4	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	9
+		P2	32
+		P6	41
+
+
+
+Current Time: 468
+Now Running: P3	Burst Time: 21
+-------------
+Ready Queue:  Process    Burst
+		P5	3
+		P9	7
+		P8	16
+		P4	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	2
+		P2	25
+		P6	34
+		P7	21
+
+
+
+Current Time: 489
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+		P9	7
+		P8	16
+		P4	15
+		P1	16
+		P7	8
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	4
+		P6	13
+		P3	43
+
+
+
+Current Time: 492
+Now Running: P9	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P8	16
+		P4	15
+		P1	16
+		P7	8
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	1
+		P3	40
+		P6	10
+		P5	61
+
+
+
+Current Time: 499
+Now Running: P8	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+		P4	15
+		P1	16
+		P7	8
+		P2	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	33
+		P5	54
+		P6	3
+		P9	41
+
+
+
+Current Time: 515
+Now Running: P4	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P1	16
+		P7	8
+		P2	12
+		P6	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	17
+		P5	38
+		P9	25
+		P8	43
+
+
+
+Current Time: 530
+Now Running: P1	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+		P7	8
+		P2	12
+		P6	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	2
+		P5	23
+		P8	28
+		P9	10
+		P4	67
+
+
+
+Current Time: 546
+Now Running: P7	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+		P2	12
+		P6	13
+		P3	20
+		P9	4
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	51
+		P5	7
+		P8	12
+		P1	43
+
+
+
+Current Time: 554
+Now Running: P2	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P6	13
+		P3	20
+		P9	4
+		P5	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	35
+		P4	43
+		P8	4
+		P7	22
+
+
+
+Current Time: 566
+Now Running: P6	Burst Time: 13
+-------------
+Ready Queue:  Process    Burst
+		P3	20
+		P9	4
+		P5	5
+		P8	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	23
+		P4	31
+		P7	10
+		P2	43
+
+
+
+Current Time: 579
+Now Running: P3	Burst Time: 20
+-------------
+Ready Queue:  Process    Burst
+		P9	4
+		P5	5
+		P8	14
+		P7	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	10
+		P2	30
+		P4	18
+		P6	29
+
+
+
+Current Time: 599
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P5	5
+		P8	14
+		P7	6
+		P1	14
+		P4	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	10
+		P6	9
+		P3	31
+
+
+
+Current Time: 603
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P8	14
+		P7	6
+		P1	14
+		P4	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	6
+		P3	27
+		P6	5
+		P9	29
+
+
+
+Current Time: 608
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P7	6
+		P1	14
+		P4	12
+		P6	11
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	1
+		P3	22
+		P9	24
+		P5	62
+
+
+
+Current Time: 622
+Now Running: P7	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P1	14
+		P4	12
+		P6	11
+		P2	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	8
+		P5	48
+		P9	10
+		P8	31
+
+
+
+Current Time: 628
+Now Running: P1	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P4	12
+		P6	11
+		P2	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	2
+		P5	42
+		P8	25
+		P9	4
+		P7	24
+
+
+
+Current Time: 642
+Now Running: P4	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P6	11
+		P2	15
+		P3	12
+		P9	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	28
+		P7	10
+		P8	11
+		P1	64
+
+
+
+Current Time: 654
+Now Running: P6	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+		P2	15
+		P3	12
+		P9	5
+		P7	5
+		P8	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	52
+		P5	16
+		P4	72
+
+
+
+Current Time: 665
+Now Running: P2	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P3	12
+		P9	5
+		P7	5
+		P8	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	41
+		P4	61
+		P5	5
+-------------
+Completed: P6	
+
+
+Current Time: 680
+Now Running: P3	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P9	5
+		P7	5
+		P8	13
+		P5	4
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	26
+		P4	46
+		P2	51
+-------------
+Completed: P6	
+
+
+Current Time: 692
+Now Running: P9	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P7	5
+		P8	13
+		P5	4
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	14
+		P2	39
+		P4	34
+-------------
+Completed: P3	P6	
+
+
+Current Time: 697
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P8	13
+		P5	4
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	9
+		P2	34
+		P4	29
+		P9	16
+-------------
+Completed: P3	P6	
+
+
+Current Time: 702
+Now Running: P8	Burst Time: 13
+-------------
+Ready Queue:  Process    Burst
+		P5	4
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	4
+		P2	29
+		P4	24
+		P9	11
+-------------
+Completed: P3	P6	P7	
+
+
+Current Time: 715
+Now Running: P5	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P1	15
+		P9	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	16
+		P4	11
+		P8	32
+-------------
+Completed: P3	P6	P7	
+
+
+Current Time: 719
+Now Running: P1	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P9	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	12
+		P4	7
+		P8	28
+		P5	51
+-------------
+Completed: P3	P6	P7	
+
+
+Current Time: 734
+Now Running: P9	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P4	15
+		P2	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	36
+		P8	13
+		P1	19
+-------------
+Completed: P3	P6	P7	
+
+
+Current Time: 739
+Now Running: P4	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P2	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	14
+		P5	31
+		P8	8
+		P9	22
+-------------
+Completed: P3	P6	P7	
+
+
+Current Time: 754
+Now Running: P2	Burst Time: 19
+-------------
+Ready Queue:  Process    Burst
+		P8	15
+		P1	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	16
+		P9	7
+		P4	66
+-------------
+Completed: P3	P6	P7	
+
+
+Current Time: 773
+Now Running: P8	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P1	15
+		P9	4
+		P5	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	47
+-------------
+Completed: P2	P3	P6	P7	
+
+
+Current Time: 788
+Now Running: P1	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P9	4
+		P5	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	32
+-------------
+Completed: P2	P3	P6	P7	P8	
+
+
+Current Time: 803
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P5	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	17
+-------------
+Completed: P1	P2	P3	P6	P7	P8	
+
+
+Current Time: 807
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	13
+-------------
+Completed: P1	P2	P3	P6	P7	P8	P9	
+
+
+Current Time: 811
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	10
+		P5	77
+-------------
+Completed: P1	P2	P3	P6	P7	P8	P9	
+
+
+Current Time: 820
+Now Running: P4	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	67
+-------------
+Completed: P1	P2	P3	P6	P7	P8	P9	
+
+
+Current Time: 835
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	53
+-------------
+Completed: P1	P2	P3	P4	P6	P7	P8	P9	
+
+
+Current Time: 887
+Now Running: P5	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+-------------
+Completed: P1	P2	P3	P4	P6	P7	P8	P9	
+
+
+Current Time: 892
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	61
+-------------
+Completed: P1	P2	P3	P4	P6	P7	P8	P9	
+
+
+Current Time: 952
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+-------------
+Completed: P1	P2	P3	P4	P6	P7	P8	P9	
+
+
+Current Time: 956
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	42
+-------------
+Completed: P1	P2	P3	P4	P6	P7	P8	P9	
+
+
+Current Time: 997
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+-------------
+Completed: P1	P2	P3	P4	P6	P7	P8	P9	
+
+
+Finished
+
+Total Time: 1002
+CPU Utilization: 83.4331%
+
+Waiting Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+347	392	282	297	391	368	479	429	511	
+Average Wait Time: 388.444
+
+Turnaround Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+
+803	773	692	834	1002	665	702	788	807	
+Average Turnaround Time: 785.111
+
+Response Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+0	17	27	45	62	67	77	83	92	
+Average Responce Time: 52.2222
+
+
+Options: 1 FCFS, 2 SJF, 3 MLFQ, 4 Exit
+
+Current Time: 0
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P2	10
+		P3	18
+		P4	17
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 5
+Now Running: P7	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P2	10
+		P3	18
+		P4	17
+		P6	10
+		P8	9
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	61
+
+
+
+Current Time: 11
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P2	10
+		P3	18
+		P4	17
+		P6	10
+		P8	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	55
+		P7	18
+
+
+
+Current Time: 17
+Now Running: P8	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P2	10
+		P3	18
+		P4	17
+		P6	10
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	49
+		P7	12
+		P9	35
+
+
+
+Current Time: 26
+Now Running: P2	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P3	18
+		P4	17
+		P6	10
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	40
+		P7	3
+		P9	26
+		P8	52
+
+
+
+Current Time: 36
+Now Running: P7	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P3	18
+		P4	17
+		P6	10
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	30
+		P8	42
+		P9	16
+		P2	31
+
+
+
+Current Time: 43
+Now Running: P6	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P3	18
+		P4	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	24
+		P5	23
+		P8	35
+		P9	9
+		P7	21
+
+
+
+Current Time: 53
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P1	17
+		P3	18
+		P4	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	14
+		P5	13
+		P7	11
+		P8	25
+		P6	35
+
+
+
+Current Time: 57
+Now Running: P1	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	10
+		P5	9
+		P6	31
+		P7	7
+		P8	21
+		P9	41
+
+
+
+Current Time: 74
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P5	6
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	14
+		P8	4
+		P9	24
+		P1	24
+
+
+
+Current Time: 79
+Now Running: P5	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P2	9
+		P8	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	19
+		P6	9
+		P9	19
+		P7	19
+
+
+
+Current Time: 85
+Now Running: P2	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P8	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	13
+		P6	3
+		P7	13
+		P9	13
+		P5	82
+
+
+
+Current Time: 94
+Now Running: P8	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P6	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	4
+		P5	73
+		P7	4
+		P9	4
+		P2	35
+
+
+
+Current Time: 106
+Now Running: P7	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P6	12
+		P1	18
+		P9	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	23
+		P5	61
+		P8	42
+
+
+
+Current Time: 110
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P6	12
+		P1	18
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	19
+		P5	57
+		P8	38
+		P7	16
+
+
+
+Current Time: 116
+Now Running: P6	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P1	18
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	13
+		P5	51
+		P7	10
+		P8	32
+		P9	33
+
+
+
+Current Time: 128
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P1	18
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	1
+		P5	39
+		P8	20
+		P9	21
+		P6	41
+
+
+
+Current Time: 133
+Now Running: P2	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P4	17
+		P1	18
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	34
+		P6	36
+		P8	15
+		P9	16
+		P7	29
+
+
+
+Current Time: 141
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	26
+		P6	28
+		P7	21
+		P8	7
+		P9	8
+		P2	42
+
+
+
+Current Time: 158
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P8	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	25
+		P5	9
+		P6	11
+		P7	4
+		P4	42
+
+
+
+Current Time: 164
+Now Running: P7	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P8	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	19
+		P4	36
+		P5	3
+		P6	5
+		P9	32
+
+
+
+Current Time: 171
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P8	14
+		P6	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	12
+		P4	29
+		P9	25
+		P7	21
+
+
+
+Current Time: 176
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P6	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	7
+		P4	24
+		P7	16
+		P9	20
+		P5	71
+
+
+
+Current Time: 190
+Now Running: P2	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P6	14
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	10
+		P5	57
+		P7	2
+		P9	6
+		P8	31
+
+
+
+Current Time: 197
+Now Running: P9	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P6	14
+		P7	8
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	3
+		P5	50
+		P8	24
+		P2	43
+
+
+
+Current Time: 204
+Now Running: P7	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P6	14
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	36
+		P5	43
+		P8	17
+		P9	41
+
+
+
+Current Time: 212
+Now Running: P6	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	28
+		P5	35
+		P8	9
+		P9	33
+		P7	22
+
+
+
+Current Time: 226
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	14
+		P5	21
+		P7	8
+		P9	19
+		P6	33
+
+
+
+Current Time: 240
+Now Running: P7	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	7
+		P6	19
+		P9	5
+		P8	21
+
+
+
+Current Time: 246
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	1
+		P6	13
+		P8	15
+		P7	24
+
+
+
+Current Time: 250
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+		P2	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	9
+		P7	20
+		P8	11
+		P9	29
+
+
+
+Current Time: 253
+Now Running: P2	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	6
+		P7	17
+		P8	8
+		P9	26
+		P5	61
+
+
+
+Current Time: 262
+Now Running: P6	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+		P8	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	52
+		P7	8
+		P9	17
+		P2	47
+
+
+
+Current Time: 273
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+		P8	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	36
+		P5	41
+		P9	6
+		P6	32
+
+
+
+Current Time: 278
+Now Running: P8	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	31
+		P5	36
+		P6	27
+		P9	1
+-------------
+Completed: P7	
+
+
+Current Time: 294
+Now Running: P9	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P3	18
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	15
+		P5	20
+		P6	11
+		P8	43
+-------------
+Completed: P7	
+
+
+Current Time: 299
+Now Running: P3	Burst Time: 18
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	10
+		P5	15
+		P6	6
+		P8	38
+		P9	16
+-------------
+Completed: P7	
+
+
+Current Time: 317
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+		P6	15
+		P2	12
+		P9	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P8	20
+		P3	51
+-------------
+Completed: P7	
+
+
+Current Time: 322
+Now Running: P9	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+		P6	15
+		P2	12
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	46
+		P8	15
+		P5	62
+-------------
+Completed: P7	
+
+
+Current Time: 327
+Now Running: P2	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+		P6	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	41
+		P5	57
+		P8	10
+		P9	22
+-------------
+Completed: P7	
+
+
+Current Time: 339
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+		P6	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	29
+		P5	45
+		P9	10
+		P2	43
+-------------
+Completed: P7	
+
+
+Current Time: 353
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+		P6	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	29
+		P3	15
+		P5	31
+		P8	31
+-------------
+Completed: P7	
+
+
+Current Time: 357
+Now Running: P6	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P1	18
+		P4	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	25
+		P3	11
+		P5	27
+		P8	27
+-------------
+Completed: P7	P9	
+
+
+Current Time: 372
+Now Running: P1	Burst Time: 18
+-------------
+Ready Queue:  Process    Burst
+		P4	19
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	10
+		P5	12
+		P8	12
+		P6	41
+-------------
+Completed: P7	P9	
+
+
+Current Time: 390
+Now Running: P5	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P4	19
+		P3	23
+		P2	15
+		P8	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	23
+		P1	73
+-------------
+Completed: P7	P9	
+
+
+Current Time: 394
+Now Running: P8	Burst Time: 13
+-------------
+Ready Queue:  Process    Burst
+		P4	19
+		P3	23
+		P2	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	69
+		P6	19
+		P5	51
+-------------
+Completed: P7	P9	
+
+
+Current Time: 407
+Now Running: P2	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P4	19
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	56
+		P5	38
+		P6	6
+		P8	32
+-------------
+Completed: P7	P9	
+
+
+Current Time: 422
+Now Running: P6	Burst Time: 13
+-------------
+Ready Queue:  Process    Burst
+		P4	19
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	41
+		P5	23
+		P8	17
+		P2	51
+-------------
+Completed: P7	P9	
+
+
+Current Time: 435
+Now Running: P4	Burst Time: 19
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	28
+		P2	38
+		P5	10
+		P8	4
+		P6	29
+-------------
+Completed: P7	P9	
+
+
+Current Time: 454
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+		P8	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	9
+		P2	19
+		P6	10
+		P4	55
+-------------
+Completed: P7	P9	
+
+
+Current Time: 457
+Now Running: P8	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	6
+		P2	16
+		P4	52
+		P6	7
+		P5	77
+-------------
+Completed: P7	P9	
+
+
+Current Time: 472
+Now Running: P6	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+		P1	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	1
+		P4	37
+		P5	62
+-------------
+Completed: P7	P8	P9	
+
+
+Current Time: 483
+Now Running: P1	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+		P2	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	26
+		P5	51
+-------------
+Completed: P6	P7	P8	P9	
+
+
+Current Time: 500
+Now Running: P2	Burst Time: 19
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	9
+		P5	34
+		P1	31
+-------------
+Completed: P6	P7	P8	P9	
+
+
+Current Time: 519
+Now Running: P4	Burst Time: 20
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	12
+		P5	15
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 539
+Now Running: P5	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+		P1	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	54
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 543
+Now Running: P1	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+		P3	23
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	50
+		P5	61
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 559
+Now Running: P3	Burst Time: 23
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	34
+		P5	45
+		P1	27
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 583
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	4
+		P4	11
+		P5	22
+		P3	53
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 586
+Now Running: P1	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	49
+		P4	7
+		P5	18
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 600
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	35
+		P5	4
+		P1	33
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 617
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	16
+		P3	18
+		P4	52
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 621
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	13
+		P3	15
+		P4	49
+		P5	42
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 633
+Now Running: P1	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	2
+		P4	36
+		P5	29
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 649
+Now Running: P3	Burst Time: 24
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	20
+		P5	13
+		P1	43
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 673
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+		P4	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	19
+		P3	61
+-------------
+Completed: P2	P6	P7	P8	P9	
+
+
+Current Time: 678
+Now Running: P4	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	14
+		P3	56
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 693
+Now Running: P1	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	41
+		P4	67
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 708
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	27
+		P4	53
+		P1	64
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 734
+Now Running: P3	Burst Time: 22
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	37
+		P4	26
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 757
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	15
+		P4	4
+		P3	31
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 760
+Now Running: P4	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	11
+		P3	27
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 772
+Now Running: P1	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	15
+		P4	72
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 787
+Now Running: P3	Burst Time: 21
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	57
+		P1	19
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 808
+Now Running: P1	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	36
+		P3	43
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 824
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	28
+		P4	21
+-------------
+Completed: P1	P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 844
+Now Running: P4	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	7
+-------------
+Completed: P1	P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 859
+Now Running: P3	Burst Time: 20
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	66
+-------------
+Completed: P1	P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 880
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	46
+		P3	31
+-------------
+Completed: P1	P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 910
+Now Running: P3	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	15
+-------------
+Completed: P1	P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 923
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	3
+-------------
+Completed: P1	P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 925
+Now Running: P4	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+-------------
+Completed: P1	P2	P3	P5	P6	P7	P8	P9	
+
+
+Finished
+
+Total Time: 939
+CPU Utilization: 89.0309%
+
+Waiting Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+367	138	512	402	67	186	55	113	61	
+Average Wait Time: 211.222
+
+Turnaround Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+
+823	519	922	939	678	483	278	472	357	
+Average Turnaround Time: 607.889
+
+Response Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+57	26	299	141	0	43	5	17	11	
+Average Responce Time: 66.5556
+
+
+Options: 1 FCFS, 2 SJF, 3 MLFQ, 4 Exit
+
+Current Time: 0
+Now Running: P1	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P2	10
+		P3	18
+		P4	17
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+Level 2: 
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 6
+Now Running: P2	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P3	18
+		P4	17
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+Level 2: 
+		P1	11
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 12
+Now Running: P3	Burst Time: 18
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P4	17
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+Level 2: 
+		P1	11
+		P2	4
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 18
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P5	5
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+Level 2: 
+		P1	11
+		P2	4
+		P3	12
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 24
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P6	10
+		P7	6
+		P8	9
+		P9	6
+Level 2: 
+		P1	11
+		P2	4
+		P3	12
+		P4	11
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+
+
+
+Current Time: 29
+Now Running: P6	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P7	6
+		P8	9
+		P9	6
+Level 2: 
+		P1	11
+		P2	4
+		P3	12
+		P4	11
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	61
+
+
+
+Current Time: 35
+Now Running: P7	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P8	9
+		P9	6
+Level 2: 
+		P1	11
+		P2	4
+		P3	12
+		P4	11
+		P6	4
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	55
+
+
+
+Current Time: 41
+Now Running: P8	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+		P9	6
+Level 2: 
+		P1	11
+		P2	4
+		P3	12
+		P4	11
+		P6	4
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	49
+		P7	18
+
+
+
+Current Time: 47
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P1	11
+		P2	4
+		P3	12
+		P4	11
+		P6	4
+		P8	3
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	43
+		P7	12
+
+
+
+Current Time: 53
+Now Running: P1	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P2	4
+		P3	12
+		P4	11
+		P6	4
+		P8	3
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	37
+		P7	6
+		P9	35
+
+
+
+Current Time: 59
+Now Running: P7	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P2	4
+		P3	12
+		P4	11
+		P6	4
+		P8	3
+		P1	5
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	31
+		P9	29
+
+
+
+Current Time: 65
+Now Running: P2	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P3	12
+		P4	11
+		P6	4
+		P8	3
+		P1	5
+		P7	1
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	25
+		P9	23
+
+
+
+Current Time: 69
+Now Running: P3	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P4	11
+		P6	4
+		P8	3
+		P1	5
+		P7	1
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	21
+		P9	19
+		P2	31
+
+
+
+Current Time: 81
+Now Running: P4	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P6	4
+		P8	3
+		P1	5
+		P7	1
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	19
+		P5	9
+		P9	7
+		P3	51
+
+
+
+Current Time: 88
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P6	4
+		P8	3
+		P1	5
+		P7	1
+		P4	4
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	12
+		P3	44
+		P5	2
+
+
+
+Current Time: 92
+Now Running: P5	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P6	4
+		P8	3
+		P1	5
+		P7	1
+		P4	4
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	8
+		P3	40
+		P9	41
+
+
+
+Current Time: 98
+Now Running: P6	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P8	3
+		P1	5
+		P7	1
+		P4	4
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	2
+		P3	34
+		P9	35
+		P5	82
+
+
+
+Current Time: 102
+Now Running: P8	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P1	5
+		P7	1
+		P4	4
+		P2	9
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	30
+		P5	78
+		P9	31
+		P6	35
+
+
+
+Current Time: 105
+Now Running: P1	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P7	1
+		P4	4
+		P2	9
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	27
+		P5	75
+		P6	32
+		P9	28
+		P8	52
+
+
+
+Current Time: 110
+Now Running: P7	Burst Time: 1
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P4	4
+		P2	9
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	22
+		P5	70
+		P6	27
+		P8	47
+		P9	23
+		P1	24
+
+
+
+Current Time: 111
+Now Running: P4	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P2	9
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	23
+		P3	21
+		P5	69
+		P6	26
+		P8	46
+		P9	22
+		P7	21
+
+
+
+Current Time: 115
+Now Running: P2	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	19
+		P3	17
+		P5	65
+		P6	22
+		P7	17
+		P8	42
+		P9	18
+		P4	42
+
+
+
+Current Time: 125
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	10
+		P3	8
+		P4	33
+		P5	56
+		P6	13
+		P7	8
+		P8	33
+		P9	9
+		P2	35
+
+
+
+Current Time: 132
+Now Running: P3	Burst Time: 23
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P7	5
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	2
+		P2	27
+		P4	25
+		P5	48
+		P6	5
+		P8	25
+		P9	1
+
+
+
+Current Time: 133
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P7	5
+		P3	22
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	1
+		P2	26
+		P4	24
+		P5	47
+		P6	4
+		P8	24
+
+
+
+Current Time: 139
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P3	22
+		P1	18
+		P6	12
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	20
+		P4	18
+		P5	41
+		P8	18
+		P9	33
+
+
+
+Current Time: 144
+Now Running: P3	Burst Time: 22
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P1	18
+		P6	12
+Level 3: 
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	15
+		P4	13
+		P5	36
+		P8	13
+		P9	28
+		P7	19
+
+
+
+Current Time: 156
+Now Running: P1	Burst Time: 18
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P6	12
+Level 3: 
+		P3	10
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	3
+		P4	1
+		P5	24
+		P7	7
+		P8	1
+		P9	16
+
+
+
+Current Time: 168
+Now Running: P6	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P4	19
+		P8	12
+		P2	8
+		P7	4
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	12
+		P9	4
+
+
+
+Current Time: 172
+Now Running: P9	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P4	19
+		P8	12
+		P2	8
+		P7	4
+		P6	8
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	8
+
+
+
+Current Time: 178
+Now Running: P4	Burst Time: 19
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P8	12
+		P2	8
+		P7	4
+		P6	8
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	2
+		P9	32
+
+
+
+Current Time: 180
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P8	12
+		P2	8
+		P7	4
+		P6	8
+		P4	17
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P9	30
+
+
+
+Current Time: 185
+Now Running: P8	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P2	8
+		P7	4
+		P6	8
+		P4	17
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P9	25
+		P5	71
+
+
+
+Current Time: 197
+Now Running: P2	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P7	4
+		P6	8
+		P4	17
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	59
+		P9	13
+		P8	42
+
+
+
+Current Time: 205
+Now Running: P7	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P6	8
+		P4	17
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	51
+		P8	34
+		P9	5
+		P2	42
+
+
+
+Current Time: 209
+Now Running: P6	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P4	17
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	38
+		P5	47
+		P8	30
+		P9	1
+		P7	16
+
+
+
+Current Time: 210
+Now Running: P9	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P4	17
+		P6	7
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	37
+		P5	46
+		P7	15
+		P8	29
+
+
+
+Current Time: 216
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P6	7
+		P9	1
+Level 3: 
+		P3	10
+		P1	6
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	31
+		P5	40
+		P7	9
+		P8	23
+
+
+
+Current Time: 228
+Now Running: P6	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P9	1
+		P7	5
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	19
+		P5	28
+		P8	11
+
+
+
+Current Time: 235
+Now Running: P9	Burst Time: 1
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P7	5
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	12
+		P5	21
+		P8	4
+		P6	41
+
+
+
+Current Time: 236
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	11
+		P5	20
+		P6	40
+		P8	3
+		P9	41
+
+
+
+Current Time: 241
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	6
+		P5	15
+		P6	35
+		P9	36
+		P7	29
+
+
+
+Current Time: 253
+Now Running: P2	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+		P8	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	3
+		P6	23
+		P7	17
+		P9	24
+
+
+
+Current Time: 256
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P2	4
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+		P8	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	20
+		P7	14
+		P9	21
+
+
+
+Current Time: 259
+Now Running: P2	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	10
+		P1	6
+		P4	5
+		P8	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	17
+		P7	11
+		P9	18
+		P5	61
+
+
+
+Current Time: 263
+Now Running: P3	Burst Time: 10
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	6
+		P4	5
+		P8	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	57
+		P6	13
+		P7	7
+		P9	14
+		P2	43
+
+
+
+Current Time: 270
+Now Running: P7	Burst Time: 7
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	6
+		P4	5
+		P8	2
+		P3	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	36
+		P5	50
+		P6	6
+		P9	7
+
+
+
+Current Time: 277
+Now Running: P6	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+		P9	4
+Level 3: 
+		P1	6
+		P4	5
+		P8	2
+		P3	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	29
+		P5	43
+		P7	21
+
+
+
+Current Time: 289
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	6
+		P4	5
+		P8	2
+		P3	3
+		P6	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	17
+		P5	31
+		P7	9
+
+
+
+Current Time: 293
+Now Running: P1	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	5
+		P8	2
+		P3	3
+		P6	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	13
+		P5	27
+		P7	5
+		P9	29
+
+
+
+Current Time: 298
+Now Running: P7	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	5
+		P8	2
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	8
+		P5	22
+		P9	24
+
+
+
+Current Time: 306
+Now Running: P2	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	5
+		P8	2
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	14
+		P9	16
+		P7	22
+
+
+
+Current Time: 315
+Now Running: P4	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	2
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	5
+		P7	13
+		P9	7
+		P2	47
+
+
+
+Current Time: 320
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	2
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	42
+		P7	8
+		P9	2
+		P4	55
+
+
+
+Current Time: 325
+Now Running: P9	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	2
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	37
+		P4	50
+		P7	3
+		P5	62
+
+
+
+Current Time: 330
+Now Running: P7	Burst Time: 6
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	2
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	32
+		P4	45
+		P5	57
+		P9	16
+
+
+
+Current Time: 336
+Now Running: P8	Burst Time: 2
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	3
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	26
+		P4	39
+		P5	51
+		P9	10
+		P7	24
+
+
+
+Current Time: 338
+Now Running: P3	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P6	2
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	24
+		P4	37
+		P5	49
+		P7	22
+		P9	8
+		P8	31
+
+
+
+Current Time: 341
+Now Running: P6	Burst Time: 2
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	1
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	21
+		P4	34
+		P5	46
+		P7	19
+		P8	28
+		P9	5
+		P3	53
+
+
+
+Current Time: 343
+Now Running: P1	Burst Time: 1
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	19
+		P3	51
+		P4	32
+		P5	44
+		P7	17
+		P8	26
+		P9	3
+		P6	33
+
+
+
+Current Time: 345
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	18
+		P3	50
+		P4	31
+		P5	43
+		P6	32
+		P7	16
+		P8	25
+		P9	2
+		P1	73
+
+
+
+Current Time: 346
+Now Running: P9	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	71
+		P2	16
+		P3	48
+		P4	29
+		P5	41
+		P6	30
+		P7	14
+		P8	23
+
+
+
+Current Time: 352
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	66
+		P2	11
+		P3	43
+		P4	24
+		P5	36
+		P6	25
+		P7	9
+		P8	18
+		P9	22
+
+
+
+Current Time: 360
+Now Running: P7	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	57
+		P2	2
+		P3	34
+		P4	15
+		P5	27
+		P6	16
+		P8	9
+		P9	13
+
+
+
+Current Time: 365
+Now Running: P2	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	52
+		P3	29
+		P4	10
+		P5	22
+		P6	11
+		P8	4
+		P9	8
+-------------
+Completed: P7	
+
+
+Current Time: 377
+Now Running: P9	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	14
+		P4	20
+		P6	11
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	40
+		P3	17
+		P5	10
+		P2	43
+-------------
+Completed: P7	
+
+
+Current Time: 381
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	20
+		P6	11
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	36
+		P2	39
+		P3	13
+		P5	6
+-------------
+Completed: P7	P9	
+
+
+Current Time: 387
+Now Running: P5	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	20
+		P6	11
+		P8	8
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	30
+		P2	33
+		P3	7
+-------------
+Completed: P7	P9	
+
+
+Current Time: 391
+Now Running: P4	Burst Time: 20
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P6	11
+		P8	8
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	26
+		P2	29
+		P3	3
+		P5	51
+-------------
+Completed: P7	P9	
+
+
+Current Time: 411
+Now Running: P6	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	8
+		P3	24
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	6
+		P2	9
+		P5	31
+		P4	54
+-------------
+Completed: P7	P9	
+
+
+Current Time: 420
+Now Running: P2	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	8
+		P3	24
+		P1	17
+		P6	2
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	45
+		P5	22
+-------------
+Completed: P7	P9	
+
+
+Current Time: 432
+Now Running: P8	Burst Time: 8
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	24
+		P1	17
+		P6	2
+		P2	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	33
+		P5	10
+-------------
+Completed: P7	P9	
+
+
+Current Time: 440
+Now Running: P3	Burst Time: 24
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	17
+		P6	2
+		P2	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	25
+		P5	2
+		P8	21
+-------------
+Completed: P7	P9	
+
+
+Current Time: 442
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	17
+		P6	2
+		P2	3
+		P3	22
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	23
+		P8	19
+-------------
+Completed: P7	P9	
+
+
+Current Time: 445
+Now Running: P1	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P6	2
+		P2	3
+		P3	22
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	20
+		P8	16
+		P5	77
+-------------
+Completed: P7	P9	
+
+
+Current Time: 462
+Now Running: P6	Burst Time: 2
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P2	3
+		P3	22
+		P8	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	3
+		P5	60
+		P1	31
+-------------
+Completed: P7	P9	
+
+
+Current Time: 464
+Now Running: P2	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	22
+		P8	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	29
+		P4	1
+		P5	58
+		P6	32
+-------------
+Completed: P7	P9	
+
+
+Current Time: 467
+Now Running: P3	Burst Time: 22
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	16
+		P4	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	26
+		P5	55
+		P6	29
+		P2	51
+-------------
+Completed: P7	P9	
+
+
+Current Time: 489
+Now Running: P8	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	17
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	4
+		P2	29
+		P5	33
+		P6	7
+		P3	61
+-------------
+Completed: P7	P9	
+
+
+Current Time: 505
+Now Running: P4	Burst Time: 17
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	16
+		P6	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P2	13
+		P3	45
+		P5	17
+		P8	43
+-------------
+Completed: P7	P9	
+
+
+Current Time: 522
+Now Running: P5	Burst Time: 4
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	16
+		P6	15
+		P2	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	28
+		P8	26
+		P4	52
+-------------
+Completed: P7	P9	
+
+
+Current Time: 526
+Now Running: P1	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P6	15
+		P2	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	24
+		P4	48
+		P8	22
+		P5	61
+-------------
+Completed: P7	P9	
+
+
+Current Time: 542
+Now Running: P6	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P2	19
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	8
+		P4	32
+		P5	45
+		P8	6
+		P1	27
+-------------
+Completed: P7	P9	
+
+
+Current Time: 557
+Now Running: P2	Burst Time: 19
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	14
+		P3	22
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	12
+		P4	17
+		P5	30
+		P6	41
+-------------
+Completed: P7	P9	
+
+
+Current Time: 576
+Now Running: P8	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	22
+		P1	14
+		P4	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	11
+		P6	22
+-------------
+Completed: P2	P7	P9	
+
+
+Current Time: 587
+Now Running: P5	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	22
+		P1	14
+		P4	15
+		P8	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	11
+-------------
+Completed: P2	P7	P9	
+
+
+Current Time: 590
+Now Running: P3	Burst Time: 22
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	14
+		P4	15
+		P8	3
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	8
+		P5	42
+-------------
+Completed: P2	P7	P9	
+
+
+Current Time: 612
+Now Running: P1	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	15
+		P8	3
+		P6	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P5	20
+		P3	31
+-------------
+Completed: P2	P7	P9	
+
+
+Current Time: 626
+Now Running: P4	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	3
+		P6	13
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	17
+		P5	6
+		P1	33
+-------------
+Completed: P2	P7	P9	
+
+
+Current Time: 632
+Now Running: P5	Burst Time: 5
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	3
+		P6	13
+		P4	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	27
+		P3	11
+-------------
+Completed: P2	P7	P9	
+
+
+Current Time: 637
+Now Running: P8	Burst Time: 3
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P6	13
+		P4	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	22
+		P3	6
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 640
+Now Running: P6	Burst Time: 13
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P4	9
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	19
+		P3	3
+		P8	31
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 653
+Now Running: P4	Burst Time: 9
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P3	21
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	6
+		P8	18
+		P6	29
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 662
+Now Running: P3	Burst Time: 21
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	16
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P6	20
+		P8	9
+		P4	67
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 683
+Now Running: P1	Burst Time: 16
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	13
+		P6	11
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	46
+		P3	43
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 699
+Now Running: P8	Burst Time: 13
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P6	11
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	27
+		P4	30
+		P1	43
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 712
+Now Running: P6	Burst Time: 11
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	30
+		P3	14
+		P4	17
+		P8	32
+-------------
+Completed: P2	P5	P7	P9	
+
+
+Current Time: 724
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	19
+		P3	3
+		P4	6
+		P8	21
+-------------
+Completed: P2	P5	P6	P7	P9	
+
+
+Current Time: 726
+Now Running: P3	Burst Time: 20
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	16
+		P4	3
+		P8	18
+-------------
+Completed: P2	P5	P6	P7	P9	
+
+
+Current Time: 746
+Now Running: P4	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P1	14
+		P8	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	31
+-------------
+Completed: P2	P5	P6	P7	P9	
+
+
+Current Time: 758
+Now Running: P1	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+Level 1: 
+Level 2: 
+Level 3: 
+		P8	15
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	19
+		P4	72
+-------------
+Completed: P2	P5	P6	P7	P9	
+
+
+Current Time: 772
+Now Running: P8	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P3	5
+		P4	58
+		P1	64
+-------------
+Completed: P2	P5	P6	P7	P9	
+
+
+Current Time: 787
+Now Running: P3	Burst Time: 12
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	49
+		P4	43
+-------------
+Completed: P2	P5	P6	P7	P8	P9	
+
+
+Current Time: 800
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	37
+		P4	31
+-------------
+Completed: P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 830
+Now Running: P4	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P1	6
+-------------
+Completed: P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 845
+Now Running: P1	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	66
+-------------
+Completed: P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 861
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	51
+		P1	19
+-------------
+Completed: P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 879
+Now Running: P1	Burst Time: 15
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	32
+-------------
+Completed: P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 895
+Now Running: [idle]
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+		P4	17
+-------------
+Completed: P1	P2	P3	P5	P6	P7	P8	P9	
+
+
+Current Time: 911
+Now Running: P4	Burst Time: 14
+-------------
+Ready Queue:  Process    Burst
+[empty]
+-------------
+Now in I/O:   Process    Remaining I/O time
+[empty]
+-------------
+Completed: P1	P2	P3	P5	P6	P7	P8	P9	
+
+
+Finished
+
+Total Time: 925
+CPU Utilization: 90.3784%
+
+Waiting Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+438	195	389	388	26	426	142	428	85	
+Average Wait Time: 279.667
+
+Turnaround Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+
+894	576	799	925	637	723	365	787	381	
+Average Turnaround Time: 676.333
+
+Response Times: 
+P1	 P2	 P3	 P4	 P5	 P6	 P7	 P8	 P9
+0	6	12	18	24	29	35	41	47	
+Average Responce Time: 23.5556
+
+
+Options: 1 FCFS, 2 SJF, 3 MLFQ, 4 Exit
+Now Exiting.

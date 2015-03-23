@@ -1,0 +1,25 @@
+Put all Processes into ready queue
+while wait queue and ready queue are not empty
+{
+if execution is empty pop top process off ready queue, put it into execution box // for SJF, figure out which job is first // For MLFQ, maintain 3 queues, and check each queue for an entry to pop off.
+advance one time unit
+decrement waiting time in IO queue
+check if anything in IO queue should move to Ready Queue.
+evaluate if process in execution box should be moved to finished, IO, or ready
+}
+
+
+vector ReadyQueue
+Vector IOQueue
+Vector FinishedList
+Varrable ExecutionBox
+
+struct ProcessInfo
+{
+int processID;
+int burstNumber;
+int executionTime;
+int turnaroundTime;
+int responseTime;
+bool responceFlag
+}
